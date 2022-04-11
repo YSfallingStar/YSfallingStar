@@ -3,6 +3,7 @@
 <!--
 **YSfallingStar/YSfallingStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>"/></a>&nbsp 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
